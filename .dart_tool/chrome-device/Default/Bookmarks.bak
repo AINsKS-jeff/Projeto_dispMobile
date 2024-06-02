@@ -1,0 +1,113 @@
+{
+   "checksum": "f70c8a22aed613aea19b9a4d22b304ac",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13293932069196139",
+            "date_last_used": "0",
+            "guid": "57f0466f-ad76-4f9b-adc7-5b4bccaafd2b",
+            "id": "19",
+            "name": "LastPass",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.lastpass.com/hpwelcome"
+         }, {
+            "date_added": "13357788892367339",
+            "date_last_used": "0",
+            "guid": "0c6d8218-ac48-4e59-a38b-edd9880d269d",
+            "id": "9",
+            "name": "Lenovo Support",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://support.lenovo.com/"
+         }, {
+            "date_added": "13357788892367243",
+            "date_last_used": "0",
+            "guid": "33b71698-541d-4be3-bf07-ef447c3ab96f",
+            "id": "8",
+            "name": "Lenovo",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.lenovo.com/"
+         }, {
+            "date_added": "13357788892364493",
+            "date_last_used": "0",
+            "guid": "253e2c5a-1103-4437-a030-f33db8b7f425",
+            "id": "7",
+            "name": "McAfee",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/lenovo.html"
+         } ],
+         "date_added": "13357788891480490",
+         "date_last_used": "0",
+         "date_modified": "13361829212406886",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13293932069193562",
+               "date_last_used": "0",
+               "guid": "9a570676-91d6-420a-aa63-4e2b35c70292",
+               "id": "17",
+               "name": "LastPass",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.lastpass.com/hpwelcome"
+            }, {
+               "date_added": "13352346168538825",
+               "date_last_used": "0",
+               "guid": "28013cc2-9418-4dc9-97bb-16330d9add46",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Nova guia",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "edge://newtab/"
+            } ],
+            "date_added": "13319435128745693",
+            "date_last_used": "0",
+            "date_modified": "13352346168538825",
+            "guid": "173043bd-fd5d-43bb-9916-a96fddd6be31",
+            "id": "16",
+            "name": "HP",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13357788891480492",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13357788891480494",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCM3wW9qPAQAAEgAqGFhWek84VGx3aXk2YXhRQmFmRVhPbUE9PUgDoAYMEqcBCBMSogEKHHpTRXc0OGFyTWRSWGtOS211ODNKQ1gxZmtxMD0SJDU3ZjA0NjZmLWFkNzYtNGY5Yi1hZGM3LTViNGJjY2FhZmQyYhgAIAAoADCPwuD/7zA4ksPg/+8wQJLD4P/vMEocL2hRZGROaDd5RFZBSzNsUWZteXd0d2h3UnpZPVoeIhxuRGIyRTVwVDZBdHJ4dlVjTXdiUjl0Z1Blem89ZQAAAAASqAEIEhKjAQocZm1tMFhEalNESEh3b1RHdzdCNVAyUUdkUTN3PRIkMjgwMTNjYzItOTQxOC00ZGM5LTk3YmItMTYzMzBkOWFkZDQ2GAAgACgAMMugjanaMTjXoY2p2jFA16GNqdoxShwyaWdIalE1MmZSc1Z6bzVQTkZLSGNzQXVFL289Wh8iHbFUcWxyMXNKR1dES0VHU0xBdENKWmc2Q3cxb0U9ZVTVYD4SiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkM2U1NjBhMmItNTUyMy01Y2M1LTg4YTctNGI5ODAxOGFjOTRkGAAgACgAMNSIjNuAMDiTiozbgDBAk4qM24AwShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgREqIBChxpUWF1a1BwQXQwWEI0d295M3NyMWliUnI5OGM9EiQ5YTU3MDY3Ni05MWQ2LTQyMGEtYWE2My00ZTJiMzVjNzAyOTIYACAAKAAwjsLg/+8wOOPC4P/vMEDjwuD/7zBKHGZPK3M1ZFEweVJranphT0NnZUk5bExpY2xnUT1aHiIcY2FLOWhac3gyaWhjUVVXam5MQlUwWHRNNS9vPWUAAAAAEqcBCBASogEKHDBzeHo4LzdkemcvcTZDaGVvZjgySUF0YTFXVT0SJDE3MzA0M2JkLWZkNWQtNDNiYi05OTE2LWE5NmZkZGQ2YmUzMRgAIAAoADCNwuD/7zA4w8Lg/+8wQMPC4P/vMEocVlczVkxvaGZvYTJzZG5CN3Mza2tqK0liMGRzPVoeIhx5TzRoa3BPOHRyUm5mSXE1YTRqa3dKa2QrVzQ9ZQAAAAASiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkYWRkY2FiNmItMjMxNC01N2Q2LTg4ZTMtNWJmYzQ5NDdhMzdmGAAgACgAMNSIjNuAMDiiiozbgDBAooqM24AwShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKJAQgDEoQBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ3NzBjODQzYS02MjM4LTU5Y2YtYjgwNS03NmU1Yzg4MGU0MjUYACAAKAAw1IiM24AwOIeLjNuAMECHi4zbgDBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
